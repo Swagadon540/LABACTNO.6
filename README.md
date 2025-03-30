@@ -1,4 +1,4 @@
 # LABACTNO.6
-I created a simple dictionary program using a C++ map to store engineering terms and definitions. I used basic input and output to keep it beginner-friendly. Then, I tested it to ensure it worked as expected.
+I converted my first dictionary program from Python to C++, using the same principle of storing and retrieving key-value pairs. Both versions let the user input a term and get its definition.
 
 link: https://youtu.be/QmsP1bu9Ymc
